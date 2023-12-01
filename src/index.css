@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+/* .pizza-item{
+  display: inline-block;
+} */
+
+img {
+  max-width: 200px;
+}
+
+.next {
+  height: 50px;
+  width: 100px;
+  font-size: large;
+  background-color: darkorange;
+}
+
+table * {
+  border: solid 1px black
+}
